@@ -1,0 +1,8 @@
+C:/Users/DREAM20/Desktop/github/qt_todolist/todolist/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/todolist.dir
+C:/Users/DREAM20/Desktop/github/qt_todolist/todolist/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/DREAM20/Desktop/github/qt_todolist/todolist/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/DREAM20/Desktop/github/qt_todolist/todolist/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/DREAM20/Desktop/github/qt_todolist/todolist/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/DREAM20/Desktop/github/qt_todolist/todolist/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/DREAM20/Desktop/github/qt_todolist/todolist/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/todolist_autogen_timestamp_deps.dir
+C:/Users/DREAM20/Desktop/github/qt_todolist/todolist/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/todolist_autogen.dir
